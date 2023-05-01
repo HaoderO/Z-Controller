@@ -69,11 +69,11 @@ USB Hub：1x上行USB2.0 PHY，4x下行 USB 2.0PHY
 
 ### 实物图
 
-![正面](%E5%8B%98%E6%99%BAZ_Controller%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95%EF%BC%881%EF%BC%89%20f524b6c941394913b7c307bd874df6a5/%25E5%25BC%2580%25E5%258F%2591%25E6%259D%25BF%25E6%25AD%25A3%25E9%259D%25A2.jpg)
+![正面](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/front.jpg "正面")
 
 正面
 
-![背面](%E5%8B%98%E6%99%BAZ_Controller%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95%EF%BC%881%EF%BC%89%20f524b6c941394913b7c307bd874df6a5/%25E5%25BC%2580%25E5%258F%2591%25E6%259D%25BF%25E8%2583%258C%25E9%259D%25A2.jpg)
+![背面](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/back.jpg "背面")
 
 背面
 
@@ -125,11 +125,11 @@ PL侧开发的主要任务是用Verilog语言编写LED的驱动代码。双色LE
 
 由原理图易知，当PL_LED1（或PL_LED2）为低电平时LED被点亮。
 
-![LED原理图](%E5%8B%98%E6%99%BAZ_Controller%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95%EF%BC%881%EF%BC%89%20f524b6c941394913b7c307bd874df6a5/LED%25E5%258E%259F%25E7%2590%2586%25E5%259B%25BE1.jpg)
+![LED原理图](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/sch2.jpg "LED原理图")
 
 LED原理图
 
-![PL侧对应的LED管脚](%E5%8B%98%E6%99%BAZ_Controller%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95%EF%BC%881%EF%BC%89%20f524b6c941394913b7c307bd874df6a5/LED%25E5%258E%259F%25E7%2590%2586%25E5%259B%25BE2.jpg)
+![PL侧对应的LED管脚](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/sch1.jpg "PL侧对应的LED管脚")
 
 PL侧对应的LED管脚
 
@@ -223,7 +223,7 @@ endmodule
 
 仿真波形如下。
 
-![复位时](%E5%8B%98%E6%99%BAZ_Controller%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95%EF%BC%881%EF%BC%89%20f524b6c941394913b7c307bd874df6a5/%25E5%25A4%258D%25E4%25BD%258D%25E6%2597%25B6%25E6%25B3%25A2%25E5%25BD%25A2.png)
+![复位时](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/sch1.jpg "PL侧对应的LED管脚")
 
 复位时
 
