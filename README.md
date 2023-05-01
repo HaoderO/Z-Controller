@@ -250,7 +250,6 @@ int main(void)
 
 # 运行结果
 ![运行结果](https://www.bilibili.com/video/BV17h4y1H7Pa "运行结果")
-成功点亮双色LED灯
 
 # 调试问题记录
 
