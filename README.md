@@ -69,7 +69,7 @@ USB Hub：1x上行USB2.0 PHY，4x下行 USB 2.0PHY
 
 ### 实物图
 
-![正面](https://github.com/HaoderO/repository/Z-Controller/main/record_doc/front.jpg "正面")
+![正面](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/front.jpg "正面")
 
 正面
 
