@@ -1,0 +1,7 @@
+timestamp=[2023-04-29 19:55:50], mode=WORKBENCH_START, duration=0:00:12.283, duration_ms=12283, data={}
+timestamp=[2023-04-29 19:55:52], mode=WORKBENCH_UI_INIT, duration=0:00:01.035, duration_ms=1035, data={editors_count=0, platform_editors_count=0, projects_count=0, platform_projects_count=0, active_platform_editor=false, projects=}
+timestamp=[2023-04-29 20:32:46], mode=PLATFORM_GENERATION, duration=0:00:40.000, duration_ms=40000, data={name=led_ctrl_platform_0_1}
+timestamp=[2023-04-29 20:47:08], mode=WORKBENCH_START, duration=0:00:11.509, duration_ms=11509, data={}
+timestamp=[2023-04-29 20:47:09], mode=WORKBENCH_UI_INIT, duration=0:00:01.198, duration_ms=1198, data={editors_count=1, platform_editors_count=0, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=FSBL,FSBL_system,RemoteSystemsTempFiles,led_ctrl_platform_0_1,pwm_led,pwm_led_system}
+timestamp=[2023-04-29 21:27:30], mode=WORKBENCH_START, duration=0:00:09.094, duration_ms=9094, data={}
+timestamp=[2023-04-29 21:27:31], mode=WORKBENCH_UI_INIT, duration=0:00:01.024, duration_ms=1024, data={editors_count=1, platform_editors_count=0, projects_count=6, platform_projects_count=1, active_platform_editor=false, projects=FSBL,FSBL_system,RemoteSystemsTempFiles,led_ctrl_platform_0_1,pwm_led,pwm_led_system}

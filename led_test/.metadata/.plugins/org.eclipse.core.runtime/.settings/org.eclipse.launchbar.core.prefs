@@ -1,0 +1,7 @@
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/arch=x86_64
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/name=Local
+LaunchTargetManager/org.eclipse.launchbar.core.launchTargetType.local,Local/os=win32
+configDescList=org.eclipse.launchbar.core.descriptorType.default\:led_ctrl_platform_0_1 Configuration,org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_FSBL_system,org.eclipse.launchbar.core.descriptorType.default\:SystemDebugger_pwm_led_system
+eclipse.preferences.version=1
+org.eclipse.launchbar.core.descriptorType.default\:led_ctrl_platform_0_1\ Configuration/activeLaunchMode=run
+org.eclipse.launchbar.core.descriptorType.default\:led_ctrl_platform_0_1\ Configuration/activeLaunchTarget=org.eclipse.launchbar.core.launchTargetType.local\:Local

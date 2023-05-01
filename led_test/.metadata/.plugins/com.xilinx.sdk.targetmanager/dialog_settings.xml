@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="_ide/bitstream/led_ctrl.bit" key="FSBL-bitFile"/>
+	<item value="false" key="FSBL-partial_bit"/>
+	<item value="Auto Detect" key="FSBL-device"/>
+	<item value="FSBL" key="programfpga.sdxproject"/>
+	<item value="" key="FSBL-bmmFile"/>
+	<item value="Local" key="FSBL-target"/>
+	<item value="false" key="FSBL-skip_rev_check"/>
+</section>

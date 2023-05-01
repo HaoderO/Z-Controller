@@ -1,0 +1,7 @@
+//arch = zynq; split = false; format = BIN
+the_ROM_image:
+{
+	[bootloader]D:\HaoGuojun\MyProject\FPGAProject\Xilinx_Vivado\ZYNQ_Prj\test1\test1\test1.sdk\FSBL\Debug\FSBL.elf
+	D:\HaoGuojun\MyProject\FPGAProject\Xilinx_Vivado\ZYNQ_Prj\test1\test1\test1.sdk\led_ctrl_hw_platform_0\led_ctrl.bit
+	D:\HaoGuojun\MyProject\FPGAProject\Xilinx_Vivado\ZYNQ_Prj\test1\test1\test1.sdk\pwm_led\Debug\pwm_led.elf
+}

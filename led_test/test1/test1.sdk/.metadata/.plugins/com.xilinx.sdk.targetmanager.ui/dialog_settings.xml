@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="" key="led_ctrl_hw_platform_0-bmmFile"/>
+	<item value="Auto Detect" key="led_ctrl_hw_platform_0-device"/>
+	<item value="led_ctrl.bit" key="led_ctrl_hw_platform_0-bitFile"/>
+	<item value="led_ctrl_hw_platform_0" key="programfpga.hwplatform"/>
+	<item value="Local" key="led_ctrl_hw_platform_0-target"/>
+	<item value="false" key="led_ctrl_hw_platform_0-partial_bit"/>
+</section>

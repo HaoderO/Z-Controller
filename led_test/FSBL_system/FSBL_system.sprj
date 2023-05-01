@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ASCII"?>
+<systemproject:SystemProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdsproject="http://www.xilinx.com/sdsproject" xmlns:systemproject="http://www.xilinx.com/systemproject" name="FSBL_system" platform="D:/HaoGuojun/MyProject/FPGAProject/Xilinx_Vivado/ZYNQ_Prj/test1/led_ctrl_platform_0_1/export/led_ctrl_platform_0_1/led_ctrl_platform_0_1.xpfm" platformUID="xilinx.com::led_ctrl:1.0(custom)" sysConfig="led_ctrl_platform_0_1" runtime="C/C++">
+  <configuration name="Debug">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="FSBL" domainName="pwm_led_bsp_domain" domainPrettyName="pwm_led_bsp_domain" appBuildConfig="Debug"/>
+      <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="0"/>
+    </configBuildOptions>
+  </configuration>
+  <configuration name="Release">
+    <configBuildOptions xsi:type="systemproject:SystemOptions">
+      <applications name="FSBL" domainName="pwm_led_bsp_domain" domainPrettyName="pwm_led_bsp_domain" appBuildConfig="Release"/>
+      <options xsi:type="sdsproject:Option" gensdcard="true" dmclkid="0"/>
+    </configBuildOptions>
+  </configuration>
+</systemproject:SystemProject>

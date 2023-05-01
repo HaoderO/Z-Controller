@@ -1,0 +1,6 @@
+set_property PACKAGE_PIN W5 [get_ports rst_n]
+set_property PACKAGE_PIN AB1 [get_ports pwm_0]
+set_property PACKAGE_PIN AB4 [get_ports pwm_1]
+set_property IOSTANDARD LVCMOS33 [get_ports rst_n]
+set_property IOSTANDARD LVCMOS33 [get_ports pwm_0]
+set_property IOSTANDARD LVCMOS33 [get_ports pwm_1]

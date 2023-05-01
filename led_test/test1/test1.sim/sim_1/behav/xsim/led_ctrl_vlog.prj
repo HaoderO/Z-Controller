@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  --include "../../../../test1.srcs/sources_1/bd/sys_clk/ipshared/ec67/hdl" --include "../../../../test1.srcs/sources_1/bd/sys_clk/ipshared/8c62/hdl" --include "D:/Software/Xilinx_Vivado/Vivado2019/Vivado/2019.1/data/xilinx_vip/include" \
+"../../../../test1.ip_user_files/bd/sys_clk/ip/sys_clk_processing_system7_0_0/sim/sys_clk_processing_system7_0_0.v" \
+"../../../../test1.ip_user_files/bd/sys_clk/sim/sys_clk.v" \
+"../../../../test1.srcs/sources_1/bd/sys_clk/hdl/sys_clk_wrapper.v" \
+"../../../../test1.srcs/sources_1/new/led_ctrl.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

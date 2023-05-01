@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<sdkproject:SdkProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sdkproject="http://www.xilinx.com/sdkproject" name="pwm_led" location="D:/HaoGuojun/MyProject/FPGAProject/Xilinx_Vivado/ZYNQ_Prj/test1/pwm_led" platform="D:/HaoGuojun/MyProject/FPGAProject/Xilinx_Vivado/ZYNQ_Prj/test1/led_ctrl_platform_0_1/export/led_ctrl_platform_0_1/led_ctrl_platform_0_1.xpfm" platformUID="xilinx.com::led_ctrl:1.0(custom)" systemProject="pwm_led_system" sysConfig="led_ctrl_platform_0_1" runtime="C/C++" cpu="pwm_led_bsp_domain" cpuInstance="ps7_cortexa9_0" os="standalone" mssSignature="75b869408b793ca93009a6a47b4e2e28">
+  <configuration name="Debug" id="xilinx.gnu.armv7.exe.debug.359314700">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+    <lastBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+  <configuration name="Release" id="xilinx.gnu.armv7.exe.release.1277363657">
+    <configBuildOptions xsi:type="sdkproject:SdkOptions"/>
+  </configuration>
+</sdkproject:SdkProject>
