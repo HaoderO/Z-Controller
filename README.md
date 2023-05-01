@@ -223,21 +223,21 @@ endmodule
 
 仿真波形如下。
 
-![复位时](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/sch1.jpg "PL侧对应的LED管脚")
+![复位时](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/wave1.png "复位时")
 
 复位时
 
-![分频节点](%E5%8B%98%E6%99%BAZ_Controller%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95%EF%BC%881%EF%BC%89%20f524b6c941394913b7c307bd874df6a5/%25E5%2588%2586%25E9%25A2%2591%25E8%258A%2582%25E7%2582%25B9%25E6%25B3%25A2%25E5%25BD%25A2.png)
+![分频节点](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/wave3.png "分频节点")
 
 分频节点
 
-![PWM波形](%E5%8B%98%E6%99%BAZ_Controller%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95%EF%BC%881%EF%BC%89%20f524b6c941394913b7c307bd874df6a5/pwm%25E6%25B3%25A2%25E5%25BD%25A2.png)
+![PWM波形](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/wave3.png "PWM波形")
 
 PWM波形
 
 ### PS侧开发
 
-![软核IP.jpg](%E5%8B%98%E6%99%BAZ_Controller%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95%EF%BC%881%EF%BC%89%20f524b6c941394913b7c307bd874df6a5/%25E8%25BD%25AF%25E6%25A0%25B8IP.jpg)
+![软核IP](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/vivado.jpg "软核IP")
 
 mian.c示例如下：
 
@@ -257,7 +257,7 @@ int main(void)
 
 # 运行结果
 
-[成功点亮双色LED灯](%E5%8B%98%E6%99%BAZ_Controller%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95%EF%BC%881%EF%BC%89%20f524b6c941394913b7c307bd874df6a5/LED%25E9%2597%25AA%25E7%2583%2581.mp4)
+[成功点亮双色LED灯](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/LED_twinkle.mp4 "成功点亮双色LED灯")
 
 成功点亮双色LED灯
 
