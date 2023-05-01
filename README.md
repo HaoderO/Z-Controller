@@ -69,11 +69,11 @@ USB Hub：1x上行USB2.0 PHY，4x下行 USB 2.0PHY
 
 ### 实物图
 
-![正面](%E5%8B%98%E6%99%BAZ_Controller%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95%EF%BC%881%EF%BC%89%20f524b6c941394913b7c307bd874df6a5/%25E5%25BC%2580%25E5%258F%2591%25E6%259D%25BF%25E6%25AD%25A3%25E9%259D%25A2.jpg)
+![正面](https://github.com/HaoderO/repository/Z-Controller/main/record_doc/front.jpg "正面")
 
 正面
 
-![背面](%E5%8B%98%E6%99%BAZ_Controller%E5%BC%80%E5%8F%91%E8%AE%B0%E5%BD%95%EF%BC%881%EF%BC%89%20f524b6c941394913b7c307bd874df6a5/%25E5%25BC%2580%25E5%258F%2591%25E6%259D%25BF%25E8%2583%258C%25E9%259D%25A2.jpg)
+![背面](https://github.com/HaoderO/repository/Z-Controller/main/record_doc/back.jpg "背面")
 
 背面
 
