@@ -249,7 +249,7 @@ int main(void)
 程序仅包含两个头文件，分别提供系统的硬件配置信息和平台信息。程序的主要部分是一个无限循环，使程序保持在空闲状态。简而言之，这段程序存在的目的就是要让PS端运行起来为PL侧提供时钟。
 
 # 运行结果
-![运行结果](https://www.bilibili.com/video/BV17h4y1H7Pa "运行结果")
+<iframe width="560" height="315" src="https://www.bilibili.com/video/BV17h4y1H7Pa" frameborder="0" allowfullscreen></iframe>
 
 # 调试问题记录
 
