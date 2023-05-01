@@ -229,7 +229,7 @@ endmodule
 ![分频节点](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/wave3.png "分频节点")
 分频节点
 
-![PWM波形](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/wave3.png "PWM波形")
+![PWM波形](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/wave2.png "PWM波形")
 PWM波形
 
 ### PS侧开发
