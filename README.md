@@ -70,9 +70,11 @@ USB Hub：1x上行USB2.0 PHY，4x下行 USB 2.0PHY
 ### 实物图
 
 ![正面](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/front.jpg "正面")
+
 正面
 
 ![背面](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/back.jpg "背面")
+
 背面
 
 # 从点灯开始
@@ -124,9 +126,11 @@ PL侧开发的主要任务是用Verilog语言编写LED的驱动代码。双色LE
 由原理图易知，当PL_LED1（或PL_LED2）为低电平时LED被点亮。
 
 ![LED原理图](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/sch2.jpg "LED原理图")
+
 LED原理图
 
 ![PL侧对应的LED管脚](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/sch1.jpg "PL侧对应的LED管脚")
+
 PL侧对应的LED管脚
 
 LED驱动代码如下，闪烁频率可通过参数CNT_DIV_MAX 进行设置。
