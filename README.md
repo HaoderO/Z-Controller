@@ -70,11 +70,9 @@ USB Hub：1x上行USB2.0 PHY，4x下行 USB 2.0PHY
 ### 实物图
 
 ![正面](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/front.jpg "正面")
-
 正面
 
 ![背面](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/back.jpg "背面")
-
 背面
 
 # 从点灯开始
@@ -126,11 +124,9 @@ PL侧开发的主要任务是用Verilog语言编写LED的驱动代码。双色LE
 由原理图易知，当PL_LED1（或PL_LED2）为低电平时LED被点亮。
 
 ![LED原理图](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/sch2.jpg "LED原理图")
-
 LED原理图
 
 ![PL侧对应的LED管脚](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/sch1.jpg "PL侧对应的LED管脚")
-
 PL侧对应的LED管脚
 
 LED驱动代码如下，闪烁频率可通过参数CNT_DIV_MAX 进行设置。
@@ -221,18 +217,15 @@ end
 endmodule
 ```
 
-仿真波形如下。
+仿真波形如下:
 
 ![复位时](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/wave1.png "复位时")
-
 复位时
 
 ![分频节点](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/wave3.png "分频节点")
-
 分频节点
 
 ![PWM波形](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/wave3.png "PWM波形")
-
 PWM波形
 
 ### PS侧开发
@@ -256,9 +249,7 @@ int main(void)
 程序仅包含两个头文件，分别提供系统的硬件配置信息和平台信息。程序的主要部分是一个无限循环，使程序保持在空闲状态。简而言之，这段程序存在的目的就是要让PS端运行起来为PL侧提供时钟。
 
 # 运行结果
-
-[成功点亮双色LED灯](https://github.com/HaoderO/Z-Controller/blob/main/record_doc/LED_twinkle.mp4 "成功点亮双色LED灯")
-
+![运行结果](https://www.bilibili.com/video/BV17h4y1H7Pa "运行结果")
 成功点亮双色LED灯
 
 # 调试问题记录
